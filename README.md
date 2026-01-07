@@ -2,8 +2,6 @@
 ## Learn Machine Learning from Scratch with Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Stars](https://img.shields.io/github/stars/ANURAG12112004/ML-CLASS?style=social)
-![License](https://img.shields.io/github/license/ANURAG12112004/ML-CLASS)
 
 ---
 
@@ -73,21 +71,8 @@ This repository focuses on:
 
 ---
 
-## 📁 Repository Structure
+## ▶️ How to Use
 
-```text
-ML-CLASS/
-├── datasets/
-├── regression/
-│   ├── simple_linear.py
-│   ├── multiple_linear.py
-│   └── gradient_descent.py
-├── classification/
-│   └── knn.py
-├── preprocessing/
-│   ├── normalization.py
-│   └── standardization.py
-├── visualization/
-│   └── plots.py
-├── README.md
-└── requirements.txt
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/ANURAG12112004/ML-CLASS.git
