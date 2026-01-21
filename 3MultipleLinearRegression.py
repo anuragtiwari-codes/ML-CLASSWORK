@@ -2,9 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-# ----------------------------
-# GIVEN DATA
-# ----------------------------
 x1 = np.array([3, 4, 5, 6, 2])
 x2 = np.array([8, 5, 7, 3, 1])
 y  = np.array([-3.7, 3.5, 2.5, 11.5, 5.7])

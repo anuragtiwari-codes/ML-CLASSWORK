@@ -8,9 +8,7 @@ from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# ===============================
-# LOAD DATASET
-# ===============================
+
 df = pd.read_csv("csv_files/Iris.csv")
 
 # Remove ID if present

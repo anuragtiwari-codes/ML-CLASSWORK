@@ -1,6 +1,7 @@
 import csv
 
 with open("csv_files/data.csv", mode="w", newline="") as file:
+
     writer = csv.writer(file)
     writer.writerow(["Name", "Age", "City"])
     for i in range(5):

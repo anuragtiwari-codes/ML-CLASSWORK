@@ -12,6 +12,7 @@ test_weight = 61
 data = list(zip(height, weight, tshirt))
 
 distances = []
+
 for h, w, size in data:
     d = math.sqrt((h - test_height)**2 + (w - test_weight)**2)
     distances.append((d, size))
