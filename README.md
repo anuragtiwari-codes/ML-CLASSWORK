@@ -1,6 +1,8 @@
 # 🤖 ML-CLASSWORK 🚀
 ### Learn Machine Learning from Scratch with Python
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-From%20Scratch-orange.svg)
 ---
 
 ## 📌 Overview
