@@ -10,7 +10,7 @@ from sklearn.tree import DecisionTreeClassifier
 # ==================================
 # LOAD DATASET
 # ==================================
-df = pd.read_csv("student_academic_placement_performance_dataset.csv")
+df = pd.read_csv("csv_files/student_academic_placement_performance_dataset.csv")
 print("Dataset Loaded! Columns:", df.columns.tolist())
 
 # ==================================

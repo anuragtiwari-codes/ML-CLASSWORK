@@ -11,7 +11,7 @@ import seaborn as sns
 # ===============================
 # LOAD DATASET
 # ===============================
-df = pd.read_csv("Iris.csv")
+df = pd.read_csv("csv_files/Iris.csv")
 
 # Remove ID if present
 if "Id" in df.columns:
