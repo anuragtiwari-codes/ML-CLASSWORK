@@ -63,24 +63,6 @@ cd ML-CLASSWORK
 python filename.py
 ```
 
-
-📁 Project Structure (Example)
-
-ML-CLASSWORK/
-│
-├── csv_files/              # CSV datasets
-├── Output/                 # Generated output images
-├── 1LinearRegression.py
-├── 2MultipleRegression.py
-├── 3MultipleLinearRegression.py
-├── 4Regression_GradientDescent.py
-├── 5KNN_Classification.py
-├── 6Iris_KNN.py
-├── 7ClassificationAlgorithm.py
-├── data.py
-└── README.md
-
-
 📌 Notes
 
 - All algorithms are implemented from scratch for learning purposes
