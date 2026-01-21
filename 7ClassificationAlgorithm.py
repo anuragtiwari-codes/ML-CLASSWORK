@@ -100,3 +100,4 @@ pred_dt = dt_clf.predict(X_test_c)
 
 print("\n--- Decision Tree Classification ---")
 print("Accuracy:", accuracy_score(y_test_c, pred_dt))
+
