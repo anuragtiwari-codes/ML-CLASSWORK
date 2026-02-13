@@ -50,7 +50,7 @@ This repository is ideal for:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ANURAG12112004/ML-CLASSWORK.git
+git clone https://github.com/anuragtiwari-codes/ML-CLASSWORK.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
