@@ -1,5 +1,11 @@
 # Multiple Regression
 
+<p align="center">
+  <img src="2.1MultipleRegression.png" width="49%" />
+  <img src="2.2MultipleRegression.png" width="49%" />
+</p>
+
+
 ## Introduction
 
 Multiple Regression is a supervised learning algorithm used to predict a continuous dependent variable using more than one independent variable.
