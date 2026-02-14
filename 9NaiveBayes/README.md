@@ -1,4 +1,7 @@
 # Naïve Bayes Classifier (Yes/No Classification)
+<p align="center">
+  <img src="9.1NaiveBayes.png" width="85%" />
+</p>
 
 ## Introduction
 
@@ -95,6 +98,9 @@ Where:
        O(n × m)
 
 ---
+<p align="center">
+  <img src="9.2NaiveBayes.png" width="85%" />
+</p>
 
 ## Conclusion
 
