@@ -155,6 +155,17 @@ Where:
 
 ---
 
+---
+
+# Model Results Snapshot
+
+<p align="center">
+  <img src="7ClassificationAlgorithm.png" width="85%" />
+</p>
+
+---
+
+
 # Key Observations
 
 - Linear Regression predicts salary package.
