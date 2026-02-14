@@ -1,8 +1,13 @@
 # K-Nearest Neighbors (KNN) on Iris Dataset
+
 <p align="center">
-  <img src="6.1Iris_KNN.png" width="49%" />
-  <img src="6.2Iris_KNN.png" width="49%" />
+  <img src="6.1Iris_KNN.png" width="85%" />
 </p>
+
+<p align="center">
+  <img src="6.2Iris_KNN.png" width="85%" />
+</p>
+
 
 
 ## Introduction
