@@ -10,10 +10,6 @@
   <img src="10.4Svd.png" width="49%" />
 </p>
 
-<p align="left">
-  <img src="10.5Output.png" width="30%" />
-</p>
-
 ---
 
 ## Introduction
