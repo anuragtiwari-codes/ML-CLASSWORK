@@ -1,9 +1,5 @@
 # Hierarchical Clustering
 
-<p align="center">
-  <img src="15.1Single.png" width="100%" />
-</p>
-
 ## Introduction
 
 Hierarchical Clustering is an **unsupervised machine learning algorithm** used to group similar data points into clusters.  
